@@ -17,3 +17,7 @@ Welcome to TruthLine Innovations — a student-led learning and collaboration co
 2. Introduce yourself in Discussions
 3. Explore learning labs
 4. Start contributing
+
+## Learning Labs
+Practice your skills and experiment with code here:
+👉 https://github.com/Truthline-Innovation/truthline-learning-labs
