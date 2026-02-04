@@ -24,5 +24,6 @@
 - Explore the TruthLine Learning Labs repository
 - Pick one learning track
 - Practice and share progress in Discussions
-- 
+
+
 This roadmap will evolve with the community.
