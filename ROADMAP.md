@@ -13,7 +13,7 @@
   ### First Learning Activities
 - Explore the TruthLine Learning Labs repository
 - Pick one learning track
-- Practice and share progress in Discussions
+- Practice and share progress in discussions
 
 ## Phase 3: Collaboration
 - Small group projects
